@@ -1,0 +1,10 @@
+{
+  "Company": "Demo DX Company",
+  "Country": "US",
+  "LastName": "Demo DX",
+  "Email": "manjul.sharma@saasforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}

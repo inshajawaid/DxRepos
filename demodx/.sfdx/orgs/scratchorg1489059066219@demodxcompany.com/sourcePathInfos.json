@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489058476950,
+            "changeTime": 1489058476950,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489058476951,
+            "changeTime": 1489058476951,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489059672034,
+            "changeTime": 1489059672034,
+            "contentHash": "3825d9c812c9e0e6e14698b60991df19cf0a4c0e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489058476951,
+            "changeTime": 1489058476951,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489059702680,
+            "changeTime": 1489059702680,
+            "contentHash": "010541d969d0ff26778dcb58a648f62122ef89f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes\\DemoDXClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes\\DemoDXClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1489059702674,
+            "changeTime": 1489059702674,
+            "contentHash": "966b18496313b08d3456177cd0664c04a0a3a463",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes\\DemoDXClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx\\force-app\\main\\default\\Classes\\DemoDXClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1489059702680,
+            "changeTime": 1489059702680,
+            "contentHash": "410e6352e4eefb14e6642466aad0430df5383b36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manjul.sharma\\Demo\\demodx",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manjul.sharma\\Demo\\demodx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1489058622661,
+            "changeTime": 1489058622661,
+            "contentHash": "2a875f08d6bc3779a6e43fe026c969b8aad4fd2f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
